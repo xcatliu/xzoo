@@ -32,7 +32,7 @@ xcat | 流浪小猫 | <img src="img/xcat/xcat.png" alt="xcat" width="64" height=
 
 第一种是在 GitHub 上提交 Issue，注意这是公开场合，所有人都看得到定价。
 
-第二种是[发 email 给我](xcatliu@gmail.com)，我们可以私聊。
+第二种是[发 email 给我](mailto:xcatliu@gmail.com)，我们可以私聊。
 
 **注意**：提交了 Issue，并不代表一定能获得它的购买权。我会综合考虑再决定帮谁设计。
 
